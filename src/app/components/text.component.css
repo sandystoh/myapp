@@ -1,0 +1,13 @@
+.subtitle {
+    font-size: 2em;
+    padding: 15px;
+    border: 20px rgba(0,0,0,0.2) solid;
+    border-image: url('/assets/images/border.png') 30 stretch;
+}
+
+.second {
+    font-size: 2em;
+    padding: 15px;
+    border: 20px rgba(0,0,0,0.2) solid;
+    border-image: url('../../assets/images/flower.jpg') 8%/1.5 round;
+}
